@@ -1,4 +1,4 @@
-### Hi there ! I'm Fuad 👋
+### Hi there ! I'm Fuad👋. I am a graduate research assistant at Tennessee State University (TSU).
 
 - 🔭 I love to work with **Machine Learning.**
 - 🌱 I’m currently working with **deep learning-based applications such as transformers and transfer learning.**
