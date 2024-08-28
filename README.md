@@ -1,7 +1,7 @@
 ### Hi there ! I'm Fuad 👋
 
 - 🔭 I love to work with **Machine Learning.**
-- 🌱 I’m currently learning **everything that seems interesting to me 😅.**
+- 🌱 I’m currently working with **deep learning-based applications such as transformers and transfer learning.**
 
 
 <h3 align="left">Languages and Tools:</h3>
