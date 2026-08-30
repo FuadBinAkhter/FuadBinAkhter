@@ -10,15 +10,20 @@ I'm a **Ph.D. student in Computer Science at Virginia Commonwealth University (V
 
 <p align="left">
   <a href="https://scholar.google.com/citations?user=XDQIEaQAAAAJ&hl=en" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlescholar.svg" alt="Google Scholar" width="36" height="36"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"
+         alt="Google Scholar" width="36" height="36"/>
   </a>
   &nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/fuad-bin-akhter-15a4041b8/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="36" height="36"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
+         alt="LinkedIn" width="36" height="36"/>
   </a>
   &nbsp;&nbsp;
+
   <a href="mailto:fuadbinakhter@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="36" height="36"/>
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
+         alt="Email" width="36" height="36"/>
   </a>
 </p>
 
