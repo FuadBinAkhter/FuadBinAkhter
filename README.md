@@ -26,7 +26,3 @@ I'm a **Ph.D. student in Computer Science at Virginia Commonwealth University (V
          alt="Email" width="36" height="36"/>
   </a>
 </p>
-
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
